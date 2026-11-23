@@ -1,0 +1,1 @@
+ALTER TABLE `hotelStays` ADD `deletedAt` timestamp;

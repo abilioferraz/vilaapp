@@ -1,0 +1,1 @@
+ALTER TABLE `appointments` ADD `calendarSyncChoiceSet` int DEFAULT 0 NOT NULL;
